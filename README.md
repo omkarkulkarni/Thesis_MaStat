@@ -1,5 +1,3 @@
-# Thesis_MaStat
-Thesis 
 Master of Statistical Data Analysis Thesis. 
 -------------------------------------------
 Abstract
